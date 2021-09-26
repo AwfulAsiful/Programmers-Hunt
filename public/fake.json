@@ -1,0 +1,72 @@
+[
+    {
+        "name":"Malik",
+        "salary":"1000",
+        "lang":"C++,Java,Python",
+        "key": "B06XJJG4PD",        "designation":"Machine Learning",
+        "img":"https://randomuser.me/api/portraits/men/86.jpg"
+    },
+    {
+        "name":"Mazid",
+        "salary":"900",
+        "lang":"Reactjs",
+        "key": "B06Y4GZS9C",        
+        "designation":"Web Dev",
+        "img":"https://randomuser.me/api/portraits/men/7.jpg"
+    },
+    {
+        "name":"Mofiz",
+        "salary":"800",
+        "lang":"JavaScript",
+        "key": "B015WXL0C6",
+        "designation":"Web Dev",
+        "img":"https://randomuser.me/api/portraits/men/59.jpg"
+    },
+    {
+        "name":"Mohit",
+        "salary":"700",
+        "lang":"CSS",
+        "key": "B01DBGVB7K",
+        "designation":"Web Dev",
+        "img":"https://randomuser.me/api/portraits/men/58.jpg"
+    },
+    {
+        "name":"Markian",
+        "salary":"600",
+        "lang":"HTML",
+        "key": "B01M18UZF5",
+        "designation":"Web Dev",
+        "img":"https://randomuser.me/api/portraits/men/67.jpg"
+    },
+    {
+        "name":"Michael",
+        "salary":"500",
+        "lang":"Flutter",
+        "key": "B01LD4MGY4",        "designation":"Android Dev",
+        "img":"https://randomuser.me/api/portraits/men/18.jpg"
+    },
+    {
+        "name":"Mikel",
+        "salary":"400",
+        "lang":"Swift",
+        "key": "B01K1IO3QW",        
+        "designation":"ios Dev",
+        "img":"https://randomuser.me/api/portraits/men/43.jpg"
+    },
+    {
+        "name":"Mark",
+        "salary":"300",
+        "lang":"Kotlin",
+        "key": "B01LZ2WZGH",
+        "designation":"Mobile Dev",
+        "img":"https://randomuser.me/api/portraits/men/81.jpg"
+    },
+    {
+        "name":"Mike",
+        "salary":"200",
+        "lang":"C++,Java,Python",
+        "key": "B002RL8IYK",
+        "designation":"Machine Learning",
+        "img":"https://randomuser.me/api/portraits/men/29.jpg"
+    }
+]
